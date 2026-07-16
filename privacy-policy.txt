@@ -1,0 +1,5 @@
+Privacy Policy
+
+This application is designed to process information solely for the purpose of providing summaries, analyses, and other requested functionality. Any data collected or processed is used only to operate and improve the service and is not sold or shared with third parties for marketing purposes. The application may temporarily store data necessary to perform its functions, such as user settings, message identifiers, or processing history, and reasonable measures are taken to protect that information from unauthorized access.
+
+By using this application, you acknowledge that information processed through third-party services (such as Discord or other integrated platforms) remains subject to the privacy policies and terms of those respective services. While reasonable efforts are made to safeguard data, no method of electronic storage or transmission is completely secure, and absolute security cannot be guaranteed. If this Privacy Policy is updated, the revised version will be made available through the application, and your continued use of the service constitutes acceptance of the updated policy.
